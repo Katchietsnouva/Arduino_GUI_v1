@@ -1,0 +1,10 @@
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\obj\Debug\Arduino_GUI_v1.csproj.AssemblyReference.cache
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\obj\Debug\Arduino_GUI_v1.Form1.resources
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\obj\Debug\Arduino_GUI_v1.Properties.Resources.resources
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\obj\Debug\Arduino_GUI_v1.csproj.GenerateResource.cache
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\obj\Debug\Arduino_GUI_v1.csproj.CoreCompileInputs.cache
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\bin\Debug\Arduino_GUI_v1.exe.config
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\bin\Debug\Arduino_GUI_v1.exe
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\bin\Debug\Arduino_GUI_v1.pdb
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\obj\Debug\Arduino_GUI_v1.exe
+C:\Users\katchietsnouvaniccur\Documents\IOT_RACE\Arduino_GUI\Arduino_GUI_v1\Arduino_GUI_v1\obj\Debug\Arduino_GUI_v1.pdb

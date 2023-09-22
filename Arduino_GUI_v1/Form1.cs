@@ -15,6 +15,19 @@ namespace Arduino_GUI_v1
         public Form1()
         {
             InitializeComponent();
+            serialPort1.Open();
+        }
+
+        private void onButton_Click(object sender, EventArgs e)
+        {
+            // Send command to the arduino to turn on
+            serialPort1.Write("A");
+        }
+
+        private void offButton_Click(object sender, EventArgs e)
+        {
+            // Send command to the arduino to turn off
+            serialPort1.Write("a");
         }
     }
 }
