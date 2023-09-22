@@ -13,9 +13,9 @@ void loop() {
     data = Serial.readString();
     d1 = data.charAt(0);
     if (d1 == 'A') {
-      digitalWrite(LED_BUILTIN, HIGH); // Turn on the built-in LED
+      digitalWrite(LED_BUILTIN, LOW); // Turn on the built-in LED
     } else if (d1 == 'a') {
-      digitalWrite(LED_BUILTIN, LOW); // Turn off the built-in LED
+      digitalWrite(LED_BUILTIN, HIGH); // Turn off the built-in LED
     }
   }
 }
