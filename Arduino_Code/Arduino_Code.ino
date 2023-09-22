@@ -1,3 +1,11 @@
+#define BLYNK_TEMPLATE_ID "TMPL2gP02u0Xy"
+#define BLYNK_TEMPLATE_NAME "Quickstart Template"
+#define BLYNK_AUTH_TOKEN "ZjtoNLp2S3s1TeFrSCBAEMUz978lanNG"
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+
+
+
 String data;
 char d1;
 
